@@ -12,6 +12,9 @@ Esse repositório é dedicado a armazenar o material da **Monitoria de ED** dura
  - **Typedef Void**
     Possui o PDF do material utilizado para explicar os conceitos de Typedef Void Pointer, que deve ser implementado a partir do T2. Também possui os códigos elaborados durante a monitoria online.
 
+ - **QuadTree**
+ 	Possui o PDF do material utilizado para explicar conceitos de árvore, manipulação básica de uma árvore, e quadtree.
+
 ### 🎬 Monitorias gravadas
 
 Os vídeos das monitorias de quarta são disponibilizados no Classroom de ED.
@@ -23,3 +26,4 @@ Os vídeos das monitorias de quarta são disponibilizados no Classroom de ED.
 
 - Fernando Morgado Pires Neto - [FernandoMPN](https://github.com/FernandoMPN)
 - Renan Ricoldi Fróis Pedro - [RRicoldi](https://github.com/RRicoldi)
+
